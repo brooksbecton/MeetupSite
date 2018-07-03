@@ -1,0 +1,2 @@
+webpackJsonp([0xe614f2c06e39],{160:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=u(1),a=n(l),f=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Suggestions"))};t.default=f,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-suggestions-index-js-6603573121095273c2dc.js.map

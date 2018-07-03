@@ -1,0 +1,2 @@
+webpackJsonp([0x82042fb10b05],{158:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=u(1),a=n(l),f=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Events"))};t.default=f,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-events-index-js-175f62fa46e39c18843e.js.map

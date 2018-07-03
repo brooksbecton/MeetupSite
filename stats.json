@@ -1,0 +1,120 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-about-index-js": [
+      "component---src-pages-about-index-js-fec76a16c134a68cea8c.js",
+      "component---src-pages-about-index-js-fec76a16c134a68cea8c.js.map"
+    ],
+    "path---sample-post": [
+      "path---sample-post-4ebf5ab6212c672c271b.js",
+      "path---sample-post-4ebf5ab6212c672c271b.js.map"
+    ],
+    "path---tags-first": [
+      "path---tags-first-e4465fa87c7e1956a119.js",
+      "path---tags-first-e4465fa87c7e1956a119.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-54bd46254701dadc132b.js",
+      "component---src-pages-index-js-54bd46254701dadc132b.js.map"
+    ],
+    "path---tags-sample": [
+      "path---tags-sample-25db16950097a5aa10ea.js",
+      "path---tags-sample-25db16950097a5aa10ea.js.map"
+    ],
+    "path---suggestions": [
+      "path---suggestions-a0e39f21c11f6a62c5ab.js",
+      "path---suggestions-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---events": [
+      "path---events-a0e39f21c11f6a62c5ab.js",
+      "path---events-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-tags-js": [
+      "component---src-templates-tags-js-d65e014b88a50d2a789c.js",
+      "component---src-templates-tags-js-d65e014b88a50d2a789c.js.map"
+    ],
+    "path---tags": [
+      "path---tags-dbc76dc1b3155f62eb9c.js",
+      "path---tags-dbc76dc1b3155f62eb9c.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-faa9d6ca8ec7d13872a9.js",
+      "component---src-templates-blog-post-js-faa9d6ca8ec7d13872a9.js.map"
+    ],
+    "path---home-components-tri-section": [
+      "path---home-components-tri-section-a0e39f21c11f6a62c5ab.js",
+      "path---home-components-tri-section-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---home": [
+      "path---home-a0e39f21c11f6a62c5ab.js",
+      "path---home-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-b4a327fd296ffc9a0a57.js",
+      "component---src-layouts-index-js-b4a327fd296ffc9a0a57.js.map"
+    ],
+    "component---src-pages-home-index-js": [
+      "component---src-pages-home-index-js-c9df1c9886c3f569f708.js",
+      "component---src-pages-home-index-js-c9df1c9886c3f569f708.js.map"
+    ],
+    "component---src-pages-home-components-tri-section-jsx": [
+      "component---src-pages-home-components-tri-section-jsx-990c03fe7f1c7ed78381.js",
+      "component---src-pages-home-components-tri-section-jsx-990c03fe7f1c7ed78381.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-events-index-js": [
+      "component---src-pages-events-index-js-175f62fa46e39c18843e.js",
+      "component---src-pages-events-index-js-175f62fa46e39c18843e.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-98d33e62ecaea5947486.js",
+      "component---src-pages-404-js-98d33e62ecaea5947486.js.map"
+    ],
+    "path---tags-latin": [
+      "path---tags-latin-390bb2758f77b91e99c1.js",
+      "path---tags-latin-390bb2758f77b91e99c1.js.map"
+    ],
+    "commons": [
+      "commons-550c6a0d6b53ddffcc41.js",
+      "build-js-styles.css",
+      "commons-550c6a0d6b53ddffcc41.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-index-js": [
+      "component---src-pages-404-index-js-43ebd40eab9b6b959483.js",
+      "component---src-pages-404-index-js-43ebd40eab9b6b959483.js.map"
+    ],
+    "app": [
+      "app-5a46b0d5a4c3b969c475.js",
+      "build-js-styles.css",
+      "app-5a46b0d5a4c3b969c475.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---hello-world-html": [
+      "path---hello-world-html-520ba77cf2e1a7757dd3.js",
+      "path---hello-world-html-520ba77cf2e1a7757dd3.js.map"
+    ],
+    "component---src-pages-suggestions-index-js": [
+      "component---src-pages-suggestions-index-js-6603573121095273c2dc.js",
+      "component---src-pages-suggestions-index-js-6603573121095273c2dc.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
