@@ -1,25 +1,26 @@
 module.exports = {
-  pathPrefix: process.env.CI ? `/${name}` : `/`,
+  pathPrefix: "/MeetupSite",
   siteMetadata: {
-    author: 'You!',
-    title: `Gatsby Default (Blog) Starter`,
+    author: "Brooks Becton",
+    title: `Starkville Programming Meetup`
   },
   plugins: [
-    'gatsby-plugin-react-next',
-    'gatsby-plugin-catch-links',
+    "gatsby-plugin-react-next",
+    "gatsby-plugin-catch-links",
+    "gatsby-plugin-styled-components",
     {
-      resolve: 'gatsby-source-filesystem',
+      resolve: "gatsby-source-filesystem",
       options: {
         path: `${__dirname}/blog`,
-        name: 'blog',
-      },
+        name: "blog"
+      }
     },
     {
-      resolve: 'gatsby-transformer-remark',
+      resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
           {
-            resolve: 'gatsby-remark-images',
+            resolve: "gatsby-remark-images",
             options: {
               linkImagesToOriginal: false
             }
@@ -27,7 +28,7 @@ module.exports = {
         ]
       }
     },
-    'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sharp'
-  ],
-}
+    "gatsby-plugin-react-helmet",
+    "gatsby-plugin-sharp"
+  ]
+};
